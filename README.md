@@ -66,8 +66,6 @@ Please make sure your contribution includes clear setup instructions and properl
 
 **Hamza Anjum**
 
-Aspiring Data Analyst | Data Visualization | Business Intelligence
-
 - Linkedin : https://www.linkedin.com/in/hamza-anjum-459bba320/
 
 ---
